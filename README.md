@@ -9,8 +9,8 @@ I took all available data on theater launches in the Kickstarter Challenge data 
 
 ![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
 
+### Analysis of Outcomes Based on Goals
+I took all the data in the Kickstarter Challenge and filtered it to show the percentage of successful, failed and canceled Kickstarter campaigns for plays based on their goal amount. 
 
-Resources/Theater_Outcomes_vs_Launch.png
-![GB_Musical](GB_Musical.png)
 
 
