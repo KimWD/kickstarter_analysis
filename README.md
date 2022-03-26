@@ -9,6 +9,7 @@ I took all available data on theater launches in the Kickstarter Challenge data 
 
 ![Theater_Outcomes_vs_Launch].(Theater_Outcomes_vs_Launch.png)
 
+Resources/Theater_Outcomes_vs_Launch.png
 
 ![GB_Musical](GB_Musical.png)
 
