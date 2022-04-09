@@ -1,4 +1,4 @@
-# Loise’s Kickstarter Analysis
+# Kickstarter Analysis
 ## Overview
   To examine different campaign outcomes in relation to their launch dates and funding goals.
 
